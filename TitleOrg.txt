@@ -1,0 +1,1 @@
+FSR 4 - AMD FSR 4 machine-learning upscaling for RDNA 4 GPUs
